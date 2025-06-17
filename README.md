@@ -49,7 +49,7 @@ IntelliJ, PyCharm, WebStorm
 🔹 [**project**](https://github.com/mhg1007/project/tree/Mun) - 1학년 2학기 팀 프로젝트(REMENTIA)  
 
 🔹 [**Picasel**](https://github.com/mhg1007/Picasel) - 2학년 1학기 개인 프로젝트(Picasel)  
-🔹 [**Picasel**](https://github.com/mhg1007/Picasel_python) - 2학년 1학기 개인 프로젝트(Picasel) - YOLO train, Flask 코드
+🔹 [**Picasel_python**](https://github.com/mhg1007/Picasel_python) - 2학년 1학기 개인 프로젝트(Picasel) - YOLO train, Flask 코드
 
 ---
 

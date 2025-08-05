@@ -44,7 +44,7 @@ IntelliJ, PyCharm, WebStorm
 
 ## 📌 Featured Projects
 
-🔹 [**myJavaPRJ**](https://github.com/mhg1007/myJavaPRJ) - Java 학습 코드 (baekjoon, programmers 등)
+🔹 [**myJavaPRJ**](https://github.com/mhg1007/myJavaPRJ) - Java 학습 코드 (baekjoon, programmers 등) (baekjoon - https://www.acmicpc.net/user/mhg224)
 
 🔹 [**project**](https://github.com/mhg1007/project/tree/Mun) - 1학년 2학기 팀 프로젝트(REMENTIA)  
 
